@@ -1,0 +1,5 @@
+Comandos no terminal:
+
+1° npm init -y
+
+2° npm i --save json-server@0.13.0 -E

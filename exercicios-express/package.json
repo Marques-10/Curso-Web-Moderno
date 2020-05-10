@@ -1,0 +1,20 @@
+{
+  "name": "exercicios-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "production": "pm2 start index.js --name appx-backend"
+  },
+  "keywords": [],
+  "author": "Lucas Marques <xjmarques@hotmail.com> (https://www.linkedin.com/in/marques-lucas/)",
+  "license": "FATEC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}
