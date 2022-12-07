@@ -11,8 +11,8 @@
   "author": "Lucas Marques <xjmarques@hotmail.com> (https://www.linkedin.com/in/marques-lucas/)",
   "license": "FATEC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "4.16.3"
+    "body-parser": "^1.20.1",
+    "express": "4.18.2"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
